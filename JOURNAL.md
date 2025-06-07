@@ -16,20 +16,24 @@
 
 From my research, antweight robots fall under 2 main categories: those with vertical spinners and those with horizontal spinners. These are the main weapons that are used, and both have their own unique advantages and disadvantages.
 
-	***Vertical Spinners:*** uneven bar that spins on the axis paralell to the ground
+	Vertical Spinners: uneven bar that spins on the axis paralell to the ground
+ 
 	Pros | Flings opponents up so they can flip over, 
  		takes up limited space, 
     		works well with wedges, 
        		easier to right itself
+	 
  	Cons | smaller radius = less inertia = less force, 
   		harder to manufacture/replace if it breaks
 
     ---
 
-  	***Horizontal Spinners:*** even or uneven bar that rotates on the axis perpendicular to the ground
+  	Horizontal Spinners: even or uneven bar that rotates on the axis perpendicular to the ground
+   
 	Pros | Flings opponents up to the sides (also could flip), 
  		hits with more power due to higher interia, 
    		harder to hit the robot because of it
+     
  	Cons | mounted on an exposed part of the robot, 
   			takes up more space, 
      			doesn't flip over robots as often
